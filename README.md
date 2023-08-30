@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vickkycodes
+- 👋 Hi, I’m @Olayinka victor 
 - 👀 I’m interested in sql, python, power BI
 - 🌱 I’m currently learning Data analysis
 - 💞️ I’m looking to collaborate on ...
