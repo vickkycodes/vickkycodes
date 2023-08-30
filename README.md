@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Olayinka victor 
-- 👀 I’m interested in sql, python, power BI
-- 🌱 I’m currently learning Data analysis
+- 👀 skilled in sql, python, power BI
+- 🌱 I am a data analyst 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me volayinka96@gmail.com
 
