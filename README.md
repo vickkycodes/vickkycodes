@@ -2,7 +2,7 @@
 - 👀 skilled in sql, python, power BI
 - 🌱 I am a data analyst 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me volayinka96@gmail.com
+- 📫 How to reach me victorolayinka854@gmail.com
 
 <!---
 vickkycodes/vickkycodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
