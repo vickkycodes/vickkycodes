@@ -38,7 +38,6 @@ conversion goals.
 | Category | Tools |
 |---|---|
 | Languages | Python, SQL |
-| scikit-learn, scipy, statsmodels |
 | Data | pandas, numpy |
 | Visualisation | matplotlib, seaborn, Power BI |
 | Workflow | Jupyter, Git, GitHub |
