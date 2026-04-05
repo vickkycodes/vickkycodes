@@ -46,7 +46,7 @@ conversion goals.
 
 ## Currently
 
-- 🌱 Deepening skills in statistical modelling and machine learning
+- 🌱 Deepening skills in AI automation, statistical modelling and machine learning
 - 🔍 Open to data analyst roles and collaborations
 - 📫 Reach me at **victorolayinka854@gmail.com**
 
