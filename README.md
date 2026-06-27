@@ -1,6 +1,6 @@
 # Hi, I'm Olayinka Olawale 👋
 
-### Data Analyst | SQL · Python · Power BI
+### BI Developer | SQL · Python · Power BI/LookerStudio · BigQuery
 
 I build end-to-end data solutions that go beyond analysis —
 turning raw data into quantified business decisions.
@@ -39,7 +39,7 @@ conversion goals.
 |---|---|
 | Languages | Python, SQL |
 | Data | pandas, numpy |
-| Visualisation | matplotlib, seaborn, Power BI |
+| Visualisation | Looker studio,matplotlib, seaborn, Power BI |
 | Workflow | Jupyter, Git, GitHub |
 
 ---
