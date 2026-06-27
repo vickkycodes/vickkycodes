@@ -31,6 +31,9 @@ score-based activation modelling to define trial-to-paid
 conversion goals.
 `Python` `pandas` `scipy` `scikit-learn` `SQL`
 
+### 🔵 [Customer Segmentation & Decision Engine: From BigQuery Data to Automated Targeting]
+End-to-end customer intelligence pipeline on 10K e-commerce customers — SQL feature engineering, K-Means segmentation, Isolation Forest anomaly detection, and a rule-based decision engine generating per-customer actions, channels, and offers. `Python` `BigQuery` `scikit-learn` `pandas` `SQL`
+
 ---
 
 ## Tech Stack
