@@ -50,7 +50,6 @@ End-to-end customer intelligence pipeline on 10K e-commerce customers — SQL fe
 ## Currently
 
 - 🌱 Deepening skills in AI automation, statistical modelling and machine learning
-- 🔍 Open to data analyst roles and collaborations
 - 📫 Reach me at **victorolayinka854@gmail.com**
 
 ---
