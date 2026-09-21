@@ -1,20 +1,28 @@
 # Hi, I'm Olayinka Olawale 👋
 
-### BI Developer | SQL · Python · Power BI/LookerStudio · BigQuery
+### BI Developer → Data Engineer | SQL · Python · dbt · BigQuery · Airflow · Power BI/Looker Studio
 
 I build end-to-end data solutions that go beyond analysis —
-turning raw data into quantified business decisions.
+from orchestrated pipelines to quantified business decisions.
 
 ---
 
 ## What I Do
 
-- **Statistical Analysis** 
-- **Predictive Modelling** 
-- **Business Intelligence** 
+- **Data Engineering** — modular, tested, orchestrated pipelines (dbt, BigQuery, Airflow/GitHub Actions)
+- **Statistical Analysis**
+- **Business Intelligence**
+
 ---
 
 ## Featured Projects
+
+### ⚽ [EPL Data Pipeline: API to Warehouse to Dashboard] *(in progress)*
+End-to-end data engineering pipeline — ingests live Premier League
+data via a public API, lands raw JSON in BigQuery, transforms with
+dbt (staging, incremental facts, SCD Type 2 standings history),
+orchestrated via GitHub Actions + dbt Cloud, visualized in Looker Studio.
+`Python` `dbt` `BigQuery` `GitHub Actions` `SQL`
 
 ### 🔴 [Predictive Customer Retention: From Churn Modelling to $1.2M Revenue Recovery]
 End-to-end churn prediction system for a telecom company.
@@ -23,7 +31,7 @@ customer risk segmentation, and a quantified retention business
 case delivering 486% ROI.
 `Python` `scikit-learn` `scipy` `pandas` `matplotlib`
 
-### 📊 [Splendor Trial Activation Analysis].
+### 📊 [Splendor Trial Activation Analysis]
 Behavioral pattern analysis across 966 organizations during
 30-day trial periods. Identified activation signals using
 chi-square testing, logistic regression, and composite
@@ -32,7 +40,8 @@ conversion goals.
 `Python` `pandas` `scipy` `scikit-learn` `SQL`
 
 ### 🔵 [Customer Segmentation & Decision Engine: From BigQuery Data to Automated Targeting]
-End-to-end customer intelligence pipeline on 10K e-commerce customers — SQL feature engineering, K-Means segmentation, Isolation Forest anomaly detection, and a rule-based decision engine generating per-customer actions, channels, and offers. `Python` `BigQuery` `scikit-learn` `pandas` `SQL`
+End-to-end customer intelligence pipeline on 10K e-commerce customers — SQL feature engineering, K-Means segmentation, Isolation Forest anomaly detection, and a rule-based decision engine generating per-customer actions, channels, and offers.
+`Python` `BigQuery` `scikit-learn` `pandas` `SQL`
 
 ---
 
@@ -41,21 +50,16 @@ End-to-end customer intelligence pipeline on 10K e-commerce customers — SQL fe
 | Category | Tools |
 |---|---|
 | Languages | Python, SQL |
-| Data | pandas, numpy |
-| Visualisation | Looker studio,matplotlib, seaborn, Power BI |
-| Workflow | Jupyter, Git, GitHub |
+| Data Engineering | dbt, BigQuery, GitHub Actions, Airflow (Docker) |
+| Data Science | pandas, numpy, scikit-learn, scipy |
+| Visualisation | Looker Studio, Power BI, matplotlib, seaborn |
+| Workflow | Git, GitHub, Jupyter |
 
 ---
 
 ## Currently
 
-- 🌱 Deepening skills in AI automation, statistical modelling and machine learning
+- 🌱 Building out data engineering skills — dbt, orchestration, cloud pipelines
 - 📫 Reach me at **victorolayinka854@gmail.com**
 
 ---
-
-
-<!---
-vickkycodes/vickkycodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
