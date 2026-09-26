@@ -17,7 +17,7 @@ from orchestrated pipelines to quantified business decisions.
 
 ## Featured Projects
 
-### ⚽ [EPL Data Pipeline: API to Warehouse to Dashboard] *(in progress)*
+### ⚽ [EPL Data Pipeline: API to Warehouse to Dashboard] 
 End-to-end data engineering pipeline — ingests live Premier League
 data via a public API, lands raw JSON in BigQuery, transforms with
 dbt (staging, incremental facts, SCD Type 2 standings history),
