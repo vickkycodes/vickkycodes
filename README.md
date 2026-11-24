@@ -21,7 +21,7 @@ from orchestrated pipelines to quantified business decisions.
 End-to-end data engineering pipeline — ingests live Premier League
 data via a public API, lands raw JSON in BigQuery, transforms with
 dbt (staging, incremental facts, SCD Type 2 standings history),
-orchestrated via GitHub Actions + dbt Cloud, visualized in Looker Studio.
+orchestrated via GitHub Actions + dbt Cloud.
 `Python` `dbt` `BigQuery` `GitHub Actions` `SQL`
 
 ### 🔴 [Predictive Customer Retention: From Churn Modelling to $1.2M Revenue Recovery]
